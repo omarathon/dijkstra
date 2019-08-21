@@ -10,3 +10,5 @@ As part of a personal project implementing the algorithms learned in the A-level
 ## Files
 
 Please find the main code files in [Dijkstra](Dijkstra), specifically the **frm<...>** forms and the **cls<...>** classes.
+
+![](https://www.dcs.warwick.ac.uk/~u1830744/portfolio/img/dijkstraimage.png)
